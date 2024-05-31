@@ -22,6 +22,7 @@ sdfasfhbskdfbhs.Name = "sdfasfhbskdfbhs"
 sdfasfhbskdfbhs.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 sdfasfhbskdfbhs.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 sdfasfhbskdfbhs.ResetOnSpawn = false
+sdfasfhbskdfbhs.DisplayOrder = '9999999'
 
 Main.Name = "Main"
 Main.Parent = sdfasfhbskdfbhs
